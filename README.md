@@ -22,5 +22,27 @@
 
 **Issues Faced:** None.
 ---
+### Day 3 - 17th October 2026
+**What I did:**
+- Completed Level 2 of Java Programming Elements and made separate github repository and pushed all the completed tasks.
+- Started with the theory of Java Control Flow.
+
+**What I will do:**
+- Deep dive into the Java Control Flow.
+- Practice and complete all the three level of questions in the Java Control Flow Assignment.
+
+**Issues Faced:** None.
+---
+### Day 4 - 18th October 2026
+**What I did:**
+- Completed Level 1, level 2 and level 3 questions of the Java Control Flow assignment.
+- Revised all the topics learnt till now.
+
+**What I will do:**
+- Again revise the concepts of Java Control Flow.
+- Practice level 3 questions again.
+
+**Issues Faced:** None.
+---
 
   
