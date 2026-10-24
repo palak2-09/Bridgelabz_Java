@@ -8,6 +8,22 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+
+### Day 09 — 24 Oct 2026
+
+**What I have done**
+- Completed the tasks of inheritance, and the 4 pillars of OOPS
+- Practiced UML diagrams and revised the relationship between classes.
+
+**What I will do**
+- Revise OOP theory, key differences, and Java implementation rules.
+- Practice coding problems and prepare for the technical review on 26 Oct 2026.
+
+**Issues faced**
+- None
+
+---
+
 ### Day 08 — 23 Oct 2026
 
 **What I have done**
